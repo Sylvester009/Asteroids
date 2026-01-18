@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: asteroids
+Version: 0.1.0
+Summary: Asteroids game
+Requires-Python: >=3.8
+Requires-Dist: pygame==2.6.1

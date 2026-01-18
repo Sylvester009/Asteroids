@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+asteroids.egg-info/PKG-INFO
+asteroids.egg-info/SOURCES.txt
+asteroids.egg-info/dependency_links.txt
+asteroids.egg-info/requires.txt
+asteroids.egg-info/top_level.txt
