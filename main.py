@@ -8,6 +8,7 @@ from player import Player
 from shot import Shot
 
 
+
 def main():
     pygame.init()
 
